@@ -1,2 +1,1 @@
-# rebeccalaunder.com
-Static website
+# beclaunder.com
