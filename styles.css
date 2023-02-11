@@ -26,7 +26,7 @@ body {
 
 .content-container:before {
   content: "";
-  background: linear-gradient(90deg, rgba(184,255,209,1) 0%, rgba(246,214,113,1) 50%, rgba(254,201,230,1) 100%);
+  background: linear-gradient(90deg, rgba(133,202,166,1) 0%, rgba(21,64,77,1) 50%, rgba(133,202,166,1) 100%);
   position: absolute;
   top: -5px;
   left: -5px;
